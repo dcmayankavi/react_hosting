@@ -16,11 +16,6 @@ const Header = () => {
             dcmayankavi@gmail.com
           </a>
         </div>
-        <button class='toggler'>
-          <span class='toggler-icon'></span>
-          <span class='toggler-icon'></span>
-          <span class='toggler-icon'></span>
-        </button>
       </div>
     </nav>
   );
